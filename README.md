@@ -4,6 +4,8 @@
 
 ![Fredy GitHub stats](https://github-readme-stats.vercel.app/api?username=fredsalas87&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsalas87)](https://github.com/fredsalas87/github-readme-stats)
+
 ## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
