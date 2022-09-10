@@ -1,4 +1,16 @@
 ### Hi! I am Fredy 👋
+I'm a frontend developer passionate about putting ideas on screen. This passion led me to switch my career from electrical engineering to web development a few years ago, while participating in some bootcamps and courses.
+
+Passionate about balancing functionality and design with an emphasis on accessibility. Equipped to work collaboratively with a like-minded team to ensure optimal results for user-centric and technology-centric projects and with newly developed skills in HTML, CSS, JavaScript, Vue.js and responsive web design.
+
+Work experience with projects:
+- Work experience in web development (Vue.js, Vuetify, Nuxt.js, Node.js) ;
+- Solid knowledge in programation (Javascript, CSS, HTML);
+- MBA in Software Engineering;
+- MBA in Data Science & Big Data Analytics;
+- Master in Electrical Engineering
+
+I am curious, adaptable and easygoing. I am always open to new challenges.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredysalazarsangucho/)
 
